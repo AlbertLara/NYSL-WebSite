@@ -1,0 +1,171 @@
+body{
+    
+    background-image: url(../images/soccer-ball-on-soccer-field.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+header{
+    
+    background-image: url(../images/design2_image1.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 350px;
+    margin: 10px 10px 10px 10px;
+    
+}
+
+h1 {
+    width: 250px;
+    height: 400px;
+    text-align: left;
+    padding-top: 50px;
+    color: goldenrod;
+    text-shadow: 3px 3px black;
+    text-transform: uppercase;
+        
+}
+
+header h1 a {
+    
+    font-size: 50px;
+}
+
+h2 {
+    
+    text-align: center;
+    margin-top: -120px;
+    height: 25px;
+    width: auto;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    
+}
+
+nav {
+    
+    display: inline;
+    background-color: transparent;
+    width: 300px;   
+    float: left;
+    margin-top: 50px;
+}
+
+nav p {
+   
+    margin: 0 10px ;
+    display:inline;
+    background-color: deepskyblue;
+    box-shadow: 5px 5px black;
+}
+
+/*nav p:hover{
+    background-color: ;
+    
+}*/
+
+section {
+    
+
+    float: left;
+    width: 400px;
+}
+
+section p {
+    
+    display: block;
+    padding-bottom: 10px;
+    margin: 0;
+    /*border: 5px solid black;*/      
+
+}
+
+aside {
+    
+    float: left;
+    margin-top: 70px;
+    margin-left: 20px;
+    display: inline-block;
+    background-color: white;
+    /*border: 5px solid black;*/
+    
+}
+
+.salto_linea {
+    
+    display: block;
+    margin: 0 0 0 20px;
+}
+
+.al_lado {
+    
+    float: left;
+    width: 60%;
+    
+}
+
+
+.position1{
+    
+    margin: 0 100px 0 10px ;
+    
+    box-shadow: 5px 5px black;
+    
+    background-color: green;
+    
+    
+    
+}
+
+.position2{
+    
+    margin: 0 100px 0 72px;
+    
+    box-shadow: 5px 5px black;
+    background-color: orange;
+    
+    
+
+    
+}
+
+.position3{
+    
+    margin: 0 100px 0 182px;
+    
+    box-shadow: 5px 5px black;
+    
+    background-color: darkviolet;
+    
+    
+    
+}
+.marcado1{
+    
+    background-color: green;
+}
+
+.marcado2{
+    
+    background-color: orange;
+}
+
+.marcado3{
+    
+    background-color: darkviolet;
+}
+#logo{
+    
+    padding: 10px;
+    margin: -275px 400px 0 0;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    float:right;
+    
+}

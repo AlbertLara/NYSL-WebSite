@@ -1,0 +1,128 @@
+body{
+    
+    background-color: palegreen;
+}
+
+header{
+    
+    background-image: url(../images/design1_image1.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 350px;
+    margin: 10px 10px 5px 10px;
+    
+}
+
+h1 {
+    
+    height: 50px;
+    text-align: left;
+    margin-bottom: 10px;
+    color: goldenrod;
+    text-shadow: 3px 3px black;
+    text-transform: uppercase;
+        
+}
+
+header h1 a {
+    
+    font-size: 50px;
+}
+
+h2 {
+    
+    text-align: center;
+    margin-top: 280px;
+    height: 50px;
+    width: auto;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    
+}
+
+nav {
+    
+    margin: 70px 0 0 0;
+    background-color: transparent;
+    width: 100px;
+    padding: 0; 
+    display: inline-block;    
+    float: left;
+}
+
+nav p {
+   
+    margin: 0;
+    padding: 10px;
+    border: 2px solid black;
+    display:block;
+    background-color: transparent;
+}
+
+nav p:hover{
+    background-color: aquamarine;
+    
+}
+
+section {
+    padding: 5px;
+    margin-top: 70px;
+    margin-left: 20px;
+    background-color: transparent;
+    float: left;
+    width: 400px;
+    border: 2px solid black;
+}
+
+section p {
+    
+    display: block;
+    padding: 10px;
+    margin: 0;
+        
+    
+}
+
+aside {
+    
+    float: left;
+    margin-top: 70px;
+    margin-left: 20px;
+    display: inline-block;
+    background-color: transparent;
+    border: 2px solid black;
+    
+}
+
+.salto_linea {
+    display: block;
+    margin: 0 0 0 20px;
+}
+
+.al_lado {
+    
+    float: left;
+    width: 60%;
+    
+}
+
+.marcado {
+    
+    background-color: cyan;
+}
+
+
+#logo{
+    
+    padding: 10px;
+    margin: -115px 50px 0 0;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    float:right;
+    
+}
+

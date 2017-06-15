@@ -1,0 +1,58 @@
+body {
+    
+   
+
+}
+
+header{
+    background-image: url(../images/design1_image1.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 30%;
+    margin: 0 8px 20px 8px;
+    border: 
+    
+}
+
+
+#logo{
+    margin: 8px 8px 8px 8px;
+    display: inline-block;
+    width: 90px;
+    height: 90px;
+    float:right;
+}
+
+h1{
+    
+    display: inline-block;
+
+}
+
+
+
+
+#div1 {
+    
+    display: inline-block;    
+    height: 150px;
+    margin: 0 8px 8px 40px;
+}
+
+#div2 {
+    
+    display: inline-block;
+    height: 150px;
+    width: 800px;
+    margin: 0 8px 8px 40px;
+}
+
+#div3 {
+    margin: 0 8px 8px 40px;
+    display: inline-block;
+    width: 400px;
+    height: 90px;
+    vertical-align: top;
+    
+
